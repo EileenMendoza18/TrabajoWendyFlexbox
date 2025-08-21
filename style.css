@@ -69,11 +69,6 @@ body {
   /* float: right; */
 }
 
-li{
-  display: inline-block;
-  text-align: center;
-}
-
 .header__link:hover {
   color: var(--color1);
 }
