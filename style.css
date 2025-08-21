@@ -18,7 +18,8 @@ body {
 
 /* Header */
 .header {
-  position: relative;
+  display: flex;
+  justify-content: space-between;
   height: 80px; /* Ajusta según tu preferencia */
   padding: 10px 20px;
   background-color: #002f4e;
