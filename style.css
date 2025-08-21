@@ -26,7 +26,6 @@ body {
 }
 
 .header__logo {
-  float: left;
   font-size: 4rem;
   line-height: 40px; /* Centra verticalmente */
   color: var(--color1);
