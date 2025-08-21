@@ -41,11 +41,11 @@ body {
   
   
 }
-
+/* 
 .header__item {
   display: inline-block;
-  margin-left: 20px; /* Espacio entre los items */
-}
+  margin-left: 20px; Espacio entre los items
+} */
 
 .header__link {
   text-decoration: none;
