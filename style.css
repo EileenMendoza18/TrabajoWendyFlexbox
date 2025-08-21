@@ -124,6 +124,7 @@ body {
   display: flex;
   justify-content: center;
   flex-wrap: wrap;
+  gap: 40px;
 }
 
 .category-card {
@@ -133,8 +134,8 @@ body {
   width: 200px;
   box-shadow: rgba(0, 0, 0, 0.1) 0px 2px 5px;
   padding: 10px;
-  margin: 10px 2em;
-  display: inline-block;
+  /* margin: 10px 2em;
+  display: inline-block; */
   height: 325px;
 }
 
